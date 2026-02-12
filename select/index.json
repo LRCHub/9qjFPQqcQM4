@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "We got so much",
+  "base_artist": "LE SSERAFIM",
+  "createdAt": "2026-02-12T17:09:34.448784Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We got so much",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/01_We_got_so_much_LE_SSERAFIM.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We got so much",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/02_We_got_so_much_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We got so much",
+      "artist": "SSERAFIM, LE",
+      "has_synced": true,
+      "path": "select/03_We_got_so_much_SSERAFIM,_LE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We got so much",
+      "artist": "LE SSERAFIM (르세라핌)",
+      "has_synced": true,
+      "path": "select/04_We_got_so_much_LE_SSERAFIM_(르세라핌).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We Got So Much",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/05_We_Got_So_Much_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "We got so much",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/pl_01_We_got_so_much_LE_SSERAFIM.txt"
+    }
+  ]
+}
